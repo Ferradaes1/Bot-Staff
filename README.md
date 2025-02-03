@@ -131,25 +131,6 @@ Quando um usuário atinge uma milestone, ele recebe uma **mensagem de parabéns*
 
 ---
 
-## 👨‍💻 Contribuição
-
-1. **Faça um fork** do projeto.
-2. **Crie uma branch** com sua melhoria:
-   ```bash
-   git checkout -b minha-melhoria
-   ```
-3. **Faça um commit** das suas alterações:
-   ```bash
-   git commit -m "Adicionando nova funcionalidade"
-   ```
-4. **Envie suas alterações** para o GitHub:
-   ```bash
-   git push origin minha-melhoria
-   ```
-5. **Abra um Pull Request** 🚀
-
----
-
 ## 📞 Suporte
 Caso tenha dúvidas ou precise de ajuda, entre em contato via **Issues** no GitHub ou no meu Discord!
 
